@@ -1,2 +1,6 @@
 currently i am learning git 
 
+<html>
+<head>
+<body>
+<h1> please go through some git commands and we can keep the reveiew in the coming friday
