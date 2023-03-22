@@ -15,3 +15,5 @@ git status -->this command is used to see the status which file and folder have 
 git log--->using this we can see the latest commit with head position
 git add .--->this is used to track many files and folder from untracked to tracked section
 git pull----> this command is used to fetch the files and folders from remote to locate 
+git checkout -b --->to create the new branch 
+git checkout ----> which is used to switch the branch
