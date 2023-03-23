@@ -17,4 +17,8 @@ git add .--->this is used to track many files and folder from untracked to track
 git pull----> this command is used to fetch the files and folders from remote to locate 
 git checkout -b --->to create the new branch 
 git checkout ----> which is used to switch the branch
-git merge --->which is used to merge the two branches
+git merge --->which is used to merge the two branchs
+git rebase --->which is alternative of merge if we want add particular 
+squence of the commit we can use rebase
+git cherry-pick -->which is used to merge particular commit
+
