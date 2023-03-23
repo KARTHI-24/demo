@@ -21,4 +21,6 @@ git merge --->which is used to merge the two branchs
 git rebase --->which is alternative of merge if we want add particular 
 squence of the commit we can use rebase
 git cherry-pick -->which is used to merge particular commit
-
+git stash-->to save the file in the background
+git stash list--->to view the list of the hidden files in the background
+git stash pop -----> to commit stash using the index numbe
